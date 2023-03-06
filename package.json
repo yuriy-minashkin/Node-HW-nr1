@@ -1,0 +1,29 @@
+{
+  "name": "node-hw-nr1",
+  "version": "1.0.0",
+  "description": "Node.js Home Work Nr.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy-minashkin/Node-HW-nr1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriy-minashkin/Node-HW-nr1/issues"
+  },
+  "homepage": "https://github.com/yuriy-minashkin/Node-HW-nr1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
+  }
+}
